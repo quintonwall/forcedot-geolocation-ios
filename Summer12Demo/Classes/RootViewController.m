@@ -72,13 +72,13 @@
     locationManager.purpose = @"This will be used to map vendors who are close to your current location.";
     [locationManager startUpdatingLocation];
     
-    //we also want to handle pin clicks
-    self.mapView.delegate = self;
     
   
     
     //display our map
     self.mapView = [[[MKMapView alloc] initWithFrame:self.view.frame] autorelease];
+    //we also want to handle pin clicks
+    self.mapView.delegate = self;
     [self.view addSubview:self.mapView]; 
 }
 
