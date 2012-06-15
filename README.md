@@ -7,4 +7,4 @@ In order to use this sample, you will need to have geolocation fields enabled in
 
 <a href="http://twitter.com/quintonwall">@quintonwall</a>
 
-<img src="https://github.com/quintonwall/forcedot-geolocation-ios/blob/master/Summer12Demo/summer-12-geo.png" />
+<img src="https://github.com/quintonwall/forcedot-geolocation-ios/blob/master/Summer12Demo/summer-12-geo.png?raw=true" />
