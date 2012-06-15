@@ -5,4 +5,4 @@ iOS sample app which uses the mobile SDK (1.1) and the new summer '12 geolocatio
 
 In order to use this sample, you will need to have geolocation fields enabled in your org.
 
-@quintonwall:
+<a href="http://twitter.com/quintonwall">@quintonwall</a>
